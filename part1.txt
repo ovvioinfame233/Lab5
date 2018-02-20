@@ -1,0 +1,28 @@
+Part 1:
+
+
+1) background-color: purple
+
+In the CSS file you would write it as the name of the ID. 
+
+#div1 {
+	background-color: purple;
+}
+
+2) margin-left: 100px, padding-top: 100px
+
+Changing the margin changes where the divs should start Ex. Indent(Where you want the page to start.
+
+The padding is the distance between the text and the borders that it is confined in.
+
+3) If the margin get bigger than 100px, then the 1 would move outside the box and closer to the second. When the padding is changed to 100px and greater, then the 1 would move closer to the center of the page.
+
+4) The scroll would show the overflow with scrolling in the vertical and horixonatal direction, while the  hidden does not show it.
+
+5) They go 1,2,3 from Left to right. If it was right it would go the opposite way 3,2,1.
+
+6) They are all on the right side of the page, in the order 1,2,3 going top to bottm
+
+7) Div1 has float : left, Div2 has float : left, Div3 has clear : left
+
+8) I would move the boxes all the way to the left with no space in between the margin and the edge of the webpage
