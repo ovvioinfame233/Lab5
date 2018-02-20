@@ -1,0 +1,83 @@
+body {
+	background-color: aqua; /*Changed the background color so it can pop out in color more */
+}
+
+#Parent {
+	width: 20%;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-right: 5px;
+	border: solid purple 2px; /*I changed the border colors to purple*/
+	text-align: center;
+	float: left;
+	position: fixed;
+}
+
+#Num1 {
+	border: solid purple 2px;
+	padding: 5px;
+	margin: 5px;
+	border-style: dotted; /*I chnaged the border style to a dottd lines*/
+}
+
+#Num2 {
+	border: solid purple 2px;
+	padding: 5px;
+	margin: 5px;
+	border-style: dotted;
+}
+
+#Num3 {
+	border: solid purple 2px;
+	padding: 5px;
+	margin: 5px;
+	border-style: dotted;
+}
+
+#Num4 {
+	border: solid purple 2px;
+	padding: 5px;
+	margin: 5px;
+	border-style: dotted;
+}
+
+#Title {
+	float: right;
+	clear: right;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-right: 5px;
+	width: 75%;
+	margin-left: 5px;
+	border: solid purple 2px;
+	font-family: "Didot"; /*I changed the font of all my text to all be the same within the paragraphs*/
+
+}
+
+#Trees {
+	color: brown; /*I changed the color of the text depending on what the item was*/
+	border-style: dashed;
+	padding: 5px;
+	margin: 5px;
+}
+
+#Ocean {
+	color: blue;
+	border-style: dashed;
+	padding: 5px;
+	margin: 5px;
+}
+
+#Mountains {
+	color: gray; /*Added a picture in the html file*/
+	border-style: dashed;
+	padding: 5px;
+	margin: 5px;
+}
+
+#Grass {
+	color: green;
+	border-style: dashed;
+	padding: 5px;
+	margin: 5px;
+}
